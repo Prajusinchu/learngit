@@ -1,0 +1,72 @@
+Git introduction :
+=================
+
+git is a free and open source distrubuted control system.
+
+there are two types of version control system
+
+a) distrubuted version control system:(git) key track of code changes.
+b) centralized version control system:
+
+Github: git hub is the remoter.
+=======
+
+github is in the browser dont install that.we have create in the git hub and sign it.
+l 
+a)local repositary
+b) remote repositary : 
+======================
+
+git commands list:
+===================
+
+a) git --version : git version 2.40.0.windows.1(meaning)
+
+
+1) git config --list : this is tell frt who r u.
+2) git config --global user name "prajwal" : frt who am i
+3)  git config --global user. email "prajwalsudha92@gmail.com"
+
+how to create the repositary in the system:
+============================================
+
+
+we have to craete one local join (india) send to code to another place (Us) in between one remote repositary is there.
+
+this is created by git hub.that remote repositary collect the information from india and keep it itself.and then us collect 
+the information from remote repositary.
+
+create a new repositary:
+=========================
+
+repositary name
+public
+addme read me file
+and then create
+some commands is there repositary:
+======================================
+
+cd downloads/
+mk dir
+ls
+git clone
+ls
+cd test/
+
+
+there are three areas is there:
+
+1) working directary
+2   staging area
+3)  main area
+
+git status
+git commit
+git log
+initial comite
+vi dockerfile =  for change the file.
+git push
+
+
+
+
